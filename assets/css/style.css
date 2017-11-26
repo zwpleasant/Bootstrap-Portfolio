@@ -1,0 +1,20 @@
+.container {
+	background-color: white;
+	text-align: center;
+	border: solid black 3px;
+}
+.col-md-3 {
+	background-color: yellow;
+	text-align: center;
+}
+.col-md-4 {
+	background-color: white;
+	text-align: center;
+}
+.col-md-9 {
+	background-color: blue;
+	text-align: center;
+}
+.col-md-12 {
+	background-color: gray;
+}
